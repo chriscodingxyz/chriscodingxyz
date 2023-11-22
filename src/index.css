@@ -31,10 +31,6 @@ body {
   }
 }
 
-.app {
-  display: flex;
-}
-
 .portfolio,
 .windows98,
 .blog {
@@ -57,7 +53,7 @@ body {
 .portfolio:hover iframe,
 .windows98:hover iframe,
 .blog:hover iframe {
-  opacity: 1; /* Display on hover */
+  opacity: 0.4; /* Display on hover */
 }
 
 .portfolio span,
@@ -88,6 +84,9 @@ body {
 
 button {
   font-size: 40px;
+  @media (max-width: 768px) {
+    font-size: 20px; /* Stack divs in columns */
+  }
 }
 
 button:hover {
