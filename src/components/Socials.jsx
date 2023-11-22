@@ -3,13 +3,16 @@ import React from "react";
 export default function Socials() {
   return (
     <div className="socials">
-      Chris Wisniewski 2023<i class="las la-copyright"></i>
-      <span> </span>
+      Chris Wisniewski 2023©<span> </span>
       {/* <i class="las la-thumbtack"></i> */}
       <a title="GitHub" target="_blank" href="https://github.com/cherrydub">
         <i class="lab la-github"></i>
       </a>
-      <a title="LinkedIn" target="_blank" href="https://github.com/cherrydub">
+      <a
+        title="LinkedIn"
+        target="_blank"
+        href="https://www.linkedin.com/in/wisniewskichris/"
+      >
         <i class="lab la-linkedin"></i>
       </a>
       <a

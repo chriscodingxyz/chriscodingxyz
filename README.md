@@ -1,7 +1,7 @@
 <h1 align="center">Chris Wisniewski</h1>
 <h3 align="center">Full stack developer // London UK 🇬🇧</h3>
 
-- 🔭 I’m currently working on [World Wise](https://github.com/cherrydub/worldwise)
+- 🔭 I’m currently working on [My Landing Page](https://cherrydub.com)
 
 - 🌱 I’m currently learning **Astro instead of Next.js**
 
@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with [JSON Formatter](https://json.cherrydub.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.cherrydub.com/](https://www.cherrydub.com/)
+- 👨‍💻 All of my projects are available at [https://www.cherrydub.com/](https://portfolio.cherrydub.com/)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **chriscoding@icloud.com**
 
-- 📄 Know about my experiences [https://www.cherrydub.com/#experience](https://www.cherrydub.com/#experience)
+- 📄 Know about my experiences [https://www.cherrydub.com/#experience](https://portfolio.cherrydub.com/#experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
