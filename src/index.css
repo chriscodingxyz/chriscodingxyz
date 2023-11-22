@@ -41,6 +41,7 @@ body {
 .portfolio iframe,
 .windows98 iframe,
 .blog iframe {
+  filter: grayscale(100%);
   position: absolute;
   top: 0;
   left: 0;
