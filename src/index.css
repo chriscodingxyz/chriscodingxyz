@@ -93,3 +93,7 @@ button {
 button:hover {
   cursor: pointer;
 }
+
+a {
+  color: rgba(255, 255, 255, 0.87);
+}
