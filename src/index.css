@@ -70,17 +70,15 @@ body {
   z-index: 1; /* Ensure text is above the iframe */
 }
 
-.portfolio {
-  background-color: black;
+/* .portfolio {
+  background-color: #f5dd90;
 }
-
 .windows98 {
-  background-color: gray;
+  background-color: #f68e5f;
 }
-
 .blog {
-  background-color: white;
-}
+  background-color: #f76c5e;
+} */
 
 button {
   font-size: 40px;
