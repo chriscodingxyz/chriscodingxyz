@@ -27,7 +27,7 @@ export function App() {
           title="blog"
         ></iframe>
         <span>
-          <a target="_blank" href="https://98.cherrydub.com">
+          <a target="_blank" href="https://blog.cherrydub.com">
             <button>🌐Blog</button>
           </a>
         </span>
