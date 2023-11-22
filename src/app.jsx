@@ -14,7 +14,7 @@ export function App() {
         ></iframe>
         <span>
           <a target="_blank" href="https://portfolio.cherrydub.com">
-            <button>📁Portfolio</button>
+            <button>📁Port</button>
           </a>
         </span>
       </div>
@@ -28,7 +28,7 @@ export function App() {
         ></iframe>
         <span>
           <a target="_blank" href="https://blog.cherrydub.com">
-            <button>🌐Blog</button>
+            <button>📝Blog</button>
           </a>
         </span>
       </div>
