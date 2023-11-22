@@ -6,7 +6,7 @@ export function App() {
     <div className="app">
       <div className="portfolio">
         <iframe
-          src="https://cherrydub.com"
+          src="https://portfolio.cherrydub.com"
           frameBorder="0"
           height="100%"
           width="100%"
