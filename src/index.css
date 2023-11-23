@@ -1,17 +1,4 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  /* font-family: Arial; */
-  line-height: 1.5;
-  font-weight: 400;
-
-  /* color-scheme: light dark; */
-  color: #242424;
-  background-color: rgba(255, 255, 255, 0.87);
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -19,7 +6,7 @@ body {
 }
 
 #app {
-  height: 100svh;
+  height: 100vh;
   width: 100vw;
 }
 
@@ -28,7 +15,7 @@ body {
   margin: 0;
   height: 100%;
   @media (max-width: 768px) {
-    flex-direction: column; /* Stack divs in columns */
+    flex-direction: column;
   }
 }
 
@@ -48,14 +35,14 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  opacity: 0; /* Initially hidden */
-  transition: opacity 1s ease; /* Add a transition for a smooth effect */
+  opacity: 0;
+  transition: opacity 1s ease;
 }
 
 .portfolio:hover iframe,
 .windows98:hover iframe,
 .blog:hover iframe {
-  opacity: 0.4; /* Display on hover */
+  opacity: 0.4;
 }
 
 .portfolio span,
@@ -69,18 +56,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 1; /* Ensure text is above the iframe */
+  z-index: 1;
 }
-
-/* .portfolio {
-  background-color: #f5dd90;
-}
-.windows98 {
-  background-color: #f68e5f;
-}
-.blog {
-  background-color: #f76c5e;
-} */
 
 button {
   background-color: lightgray;
@@ -90,10 +67,10 @@ button {
   border-radius: 10px;
   font-size: 40px;
   @media (max-width: 980px) {
-    font-size: 30px; /* Stack divs in columns */
+    font-size: 30px;
   }
   @media (max-width: 768px) {
-    font-size: 20px; /* Stack divs in columns */
+    font-size: 20px;
   }
 }
 
@@ -120,11 +97,14 @@ a button {
   font-family: monospace;
   position: fixed;
   bottom: 0;
-  left: 0;
-  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0 10px;
   text-align: center;
   z-index: 100;
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  /* border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
+  border-right: 1px solid rgba(0, 0, 0, 0.2); */
 }
 
 .socials a {
@@ -132,7 +112,6 @@ a button {
 }
 
 .socials a:hover {
-  /* outline: 1px solid black; */
   color: black;
 }
 
@@ -141,5 +120,5 @@ a button {
 }
 
 .hovered span {
-  opacity: 1; /* Adjust this value based on your design */
+  opacity: 1;
 }
