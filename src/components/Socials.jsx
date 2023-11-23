@@ -3,7 +3,8 @@ import React from "react";
 export default function Socials() {
   return (
     <div className="socials">
-      <i class="las la-grin-stars"></i> Chris Wisniewski ©<span> </span>
+      {/* <i class="las la-grin-stars"></i>  */}
+      Chris Wisniewski © <span> </span>
       {/* <i class="las la-thumbtack"></i> */}
       <a title="GitHub" target="_blank" href="https://github.com/cherrydub">
         <i class="lab la-github"></i>
