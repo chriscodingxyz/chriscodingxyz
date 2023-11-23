@@ -1,9 +1,47 @@
-import React from "react";
+import React, { useEffect, useRef } from "react";
 
 export default function View() {
+  const portfolioRef = useRef(null);
+  const blogRef = useRef(null);
+  const windows98Ref = useRef(null);
+
+  useEffect(() => {
+    // Function to trigger hover effect on a specific div after a delay
+    const triggerHover = (elementRef) => {
+      if (elementRef.current) {
+        elementRef.current.classList.add("hovered");
+
+        // Set a timeout to remove the "hovered" class after a certain duration
+        setTimeout(() => {
+          elementRef.current.classList.remove("hovered");
+        }, 1000); // Adjust the duration based on your design
+      }
+    };
+
+    // Set initial delay
+    let delay = 3500; // Set the delay time in milliseconds
+
+    // Trigger hover effect on each div after a delay
+    setTimeout(() => {
+      triggerHover(portfolioRef);
+    }, delay);
+
+    delay += 1000; // Increase the delay for the next div
+
+    setTimeout(() => {
+      triggerHover(blogRef);
+    }, delay);
+
+    delay += 1000; // Increase the delay for the next div
+
+    setTimeout(() => {
+      triggerHover(windows98Ref);
+    }, delay);
+  }, []);
+
   return (
     <>
-      <div className="portfolio">
+      <div className="portfolio" ref={portfolioRef}>
         <iframe
           src="https://portfolio.cherrydub.com"
           frameBorder="0"
@@ -14,12 +52,12 @@ export default function View() {
         <span>
           <a target="_blank" href="https://portfolio.cherrydub.com">
             <button>
-              <i class="las la-archive"></i>Port
+              <i class="las la-archive"></i>Portfolio
             </button>
           </a>
         </span>
       </div>
-      <div className="blog">
+      <div className="blog" ref={blogRef}>
         <iframe
           src="https://blog.cherrydub.com"
           frameBorder="0"
@@ -35,7 +73,7 @@ export default function View() {
           </a>
         </span>
       </div>
-      <div className="windows98">
+      <div className="windows98" ref={windows98Ref}>
         <iframe
           src="https://98.cherrydub.com"
           frameBorder="0"
