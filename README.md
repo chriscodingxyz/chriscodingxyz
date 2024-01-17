@@ -2,13 +2,13 @@
 <h3 align="center">Full stack developer // London UK 🇬🇧</h3>
 
 - 🔭 I’m currently working on [My Landing Page](https://cherrydub.com)
-- 🌱 I’m currently learning **Astro instead of Next.js**
-- 👯 I’m looking to collaborate on [Win98](https://98.cherrydub.com/)
+- 🌱 I’m currently learning **Astro for personal projects, and Next.js for professional demand**
+- 💾 I have a fun nostalgic portfolio [Win98](https://98.cherrydub.com/)
 - 🤝 I’m looking for help with [JSON Formatter](https://json.cherrydub.com/)
-- 👨‍💻 All of my projects are available at [https://www.cherrydub.com/](https://portfolio.cherrydub.com/)
+- 👨‍💻 All of my projects are available at [https://www.portfolio.cherrydub.com/](https://portfolio.cherrydub.com/)
 - 💬 Ask me about **React**
 - 📫 How to reach me **chriscoding@icloud.com**
-- 📄 Know about my experiences [https://www.cherrydub.com/#experience](https://portfolio.cherrydub.com/#experience)
+- 📄 Know about my experiences [https://www.portfolio.cherrydub.com/#experience](https://portfolio.cherrydub.com/#experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
