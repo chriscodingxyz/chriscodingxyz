@@ -4,11 +4,12 @@
 - 🔭 I’m currently working on [My Landing Page](https://chriscoding.xyz)
 - 🌱 I’m currently learning **Next.js for professional demand**
 - 💾 I have a fun nostalgic portfolio [Win98](https://98.chriscoding.xyz/)
-- 🤝 Here's a recent Fullstack Nextjs app [Evento](https://evento.chriscoding.xyz/)
+- 🌐 Here's a recent Fullstack Nextjs app [Evento](https://evento.chriscoding.xyz/)
 - 👨‍💻 All of my projects are available at: [chriscoding.xyz](https://chriscoding.xyz/)
 - 💬 Ask me about **React & Nextjs**
 - 📫 How to reach me **chriscoding@icloud.com**
 - 📄 Know about my [experience](https://chriscoding.xyz/#experience)
+- 📝 View my [CV] (https://docs.google.com/document/d/1OPZ7AvdwdWzd3o_vCGJ2zDj6sVUScl-3fwgepYFS2-g/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
