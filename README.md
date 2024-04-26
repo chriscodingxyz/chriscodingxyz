@@ -9,7 +9,7 @@
 - 💬 Ask me about **React & Nextjs**
 - 📫 How to reach me **chriscoding@icloud.com**
 - 📄 Know about my [experience](https://chriscoding.xyz/#experience)
-- 📝 View my [CV] (https://docs.google.com/document/d/1OPZ7AvdwdWzd3o_vCGJ2zDj6sVUScl-3fwgepYFS2-g/edit?usp=sharing)
+- 📝 View my [CV](https://docs.google.com/document/d/1OPZ7AvdwdWzd3o_vCGJ2zDj6sVUScl-3fwgepYFS2-g/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
