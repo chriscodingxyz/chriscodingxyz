@@ -1,4 +1,4 @@
-<h1 align="center">Chris Wiz</h1>
+<!-- <h1 align="center">Chris Wiz</h1> -->
 <h3 align="center">Full Stack Developer 👾 London, UK 🇬🇧</h3>
 
 <p align="center">
