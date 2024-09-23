@@ -6,6 +6,7 @@
 </p>
 
 - 🌍 _Currently focusing on_: <strong>Next.js</strong> & <strong>Supabase</strong>
+- 🌐 _Cutting edge_: Nextjs app router + server actions + server/client components
 - 💾 _Nostalgic portfolio_: Check out my retro [Windows98](https://98.chriscoding.xyz/) design!
 - 👨‍💻 _All of my projects_ are available at: [chriscoding.xyz](https://chriscoding.xyz/)
 - 💬 _Ask me about_: <strong>React</strong> & <strong>Next.js</strong>
