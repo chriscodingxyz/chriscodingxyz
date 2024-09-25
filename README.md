@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="20"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" height="20"/>
 <img src="https://img.shields.io/badge/Supabase-008060?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="20"/>
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" height="20"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" height="20"/>
 <img src="https://img.shields.io/badge/Zod-0A81AB?style=flat-square&logo=zod&logoColor=white" alt="Zod" height="20"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="20"/>
