@@ -2,17 +2,8 @@
 <h3 align="center">Full Stack Developer 👾 London, UK 🇬🇧</h3>
 
 <p align="center">
-  <em>Coding modern web experiences with <strong>Next.js</strong> and <strong>Supabase</strong> to bring ideas to life.</em>
+  <em>React and stuff</em>
 </p>
-
-- 🌍 _Currently focusing on_: <strong>Next.js</strong> & <strong>Supabase</strong>
-- 🌐 _Cutting edge_: Nextjs app router + server actions + server/client components
-- 💾 _Nostalgic portfolio_: Check out my retro [Windows98](https://98.chriscoding.xyz/) design!
-- 👨‍💻 _All of my projects_ are available at: [chriscoding.xyz](https://chriscoding.xyz/)
-- 💬 _Ask me about_: <strong>React</strong> & <strong>Next.js</strong>
-- 📧 _Reach me at_: <a href="mailto:chriscoding@icloud.com">chriscoding@icloud.com</a>
-- 🧑‍💼 _View my experience_: [Experience Overview](https://chriscoding.xyz/#experience)
-- 📄 _View my CV_: [Download CV](https://docs.google.com/document/d/1OPZ7AvdwdWzd3o_vCGJ2zDj6sVUScl-3fwgepYFS2-g/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
