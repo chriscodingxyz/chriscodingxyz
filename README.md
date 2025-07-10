@@ -1,9 +1,5 @@
 <!-- <h1 align="center">Chris Wiz</h1> -->
-<h3 align="center">Full Stack Developer 👾 London, UK 🇬🇧</h3>
-
-<p align="center">
-  <em>React and stuff</em>
-</p>
+<h3 align="left"👾 London, UK 🇬🇧</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
