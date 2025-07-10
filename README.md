@@ -1,7 +1,5 @@
 <!-- <h1 align="center">Chris Wiz</h1> -->
-<h3 align="left">👾 London, UK 🇬🇧</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/wisniewskichris" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-wisniewskichris-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="wisniewskichris" height="20"/>
